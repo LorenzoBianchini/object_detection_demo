@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>185.jpg</filename>
+	<path>/home/lorenzo/Desktop/prova/data/images/test/185.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cellphone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>224</xmin>
+			<ymin>34</ymin>
+			<xmax>585</xmax>
+			<ymax>561</ymax>
+		</bndbox>
+	</object>
+</annotation>
