@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>169.jpg</filename>
+	<path>/home/lorenzo/Desktop/prova/data/images/train/169.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cellphone</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>88</ymin>
+			<xmax>800</xmax>
+			<ymax>501</ymax>
+		</bndbox>
+	</object>
+</annotation>
